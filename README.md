@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brahmaiahgandham
-- 👀 I’m interested in Concurrent Programming and Locks
-- 🌱 I’m currently learning Concurrent Programming
+- 👀 I’m interested in Locks, Concurrent Programming, and HPC.
+- 🌱 I’m currently learning Parallel and Concurrent Programming
 - 💞️ I’m looking to collaborate on Designing Locks
 - 📫 How to reach me 
 
